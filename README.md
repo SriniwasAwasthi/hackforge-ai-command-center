@@ -75,19 +75,21 @@ Thank you so much for visiting my GitHub account and checking out this repositor
 
 ---
 
-## 💖 Thank You for Visiting!
+---
 
-> *"Thank you so much for taking the time to explore HackForge AI Command Center!"* 🌟
+## 💖 Thank You for Visiting HackForge!
 
-Taking your precious time to inspect this project, walk through the features, and review my code means the world to me. Every single repository I build is an opportunity to learn, innovate, and push the boundaries of software engineering.
+> *"To every builder and hacker pushing boundaries—thank you for dropping by!"* 🛠️
 
-- 🌟 **Enjoyed the project?** Feel free to leave a **Star** on this repository—your support provides immense motivation to keep building exciting projects!
-- 📬 **Let's Connect:** I am always open to constructive feedback, technical discussions, and exciting engineering opportunities. Feel free to explore my other repositories or connect with me directly on [GitHub](https://github.com/SriniwasAwasthi).
+Thank you for reviewing the HackForge AI Command Center! Building a unified workspace for rapid API testing, prompt staging, tool comparison, and time-boxed hackathon sprints was born out of real competitive coding passion. Your time and feedback mean so much.
 
-*Wishing you a wonderful day ahead, and thank you once again for stopping by!* ✨
+- 🌟 **Ready for your next hackathon?** Drop a star on this repo to bookmark these tools!
+- 📬 **Let's Build Together:** Always excited to brainstorm AI agent workflows and developer productivity tools. Connect with me on [GitHub](https://github.com/SriniwasAwasthi).
+
+*Keep building, keep innovating, and crush your next sprint!* ✨
 
 ---
 
 <div align="center">
-  <sub>Crafted with passion by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+  <sub>Forged for hackathon competitors and rapid builders by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
