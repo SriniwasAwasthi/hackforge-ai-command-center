@@ -72,3 +72,22 @@ graph TD
 Hack OS is built by developers, for developers, to take the friction out of building MVP prototypes. By bringing together the best AI development tools into a single, high-contrast, fully readable command center, it allows you to focus on what matters most: shipping high-quality code and winning hackathons.
 
 Thank you so much for visiting my GitHub account and checking out this repository! If this command center helped you, feel free to star the repository, fork it to build your own dashboard, or reach out. Happy hacking! 🚀
+
+---
+
+## 💖 Thank You for Visiting!
+
+> *"Thank you so much for taking the time to explore HackForge AI Command Center!"* 🌟
+
+Taking your precious time to inspect this project, walk through the features, and review my code means the world to me. Every single repository I build is an opportunity to learn, innovate, and push the boundaries of software engineering.
+
+- 🌟 **Enjoyed the project?** Feel free to leave a **Star** on this repository—your support provides immense motivation to keep building exciting projects!
+- 📬 **Let's Connect:** I am always open to constructive feedback, technical discussions, and exciting engineering opportunities. Feel free to explore my other repositories or connect with me directly on [GitHub](https://github.com/SriniwasAwasthi).
+
+*Wishing you a wonderful day ahead, and thank you once again for stopping by!* ✨
+
+---
+
+<div align="center">
+  <sub>Crafted with passion by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+</div>
