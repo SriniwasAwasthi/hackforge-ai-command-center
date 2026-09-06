@@ -32,23 +32,6 @@ Welcome to **Hack OS AI Ecosystem**, a next-generation developer dashboard desig
 
 ## 📊 System Architecture Flow Chart
 
-```mermaid
-graph TD
-    A[User Browser] -->|Interacts| B[Sidebar Navigation]
-    A -->|Configures| C[Navbar Mode Switcher]
-    A -->|Builds Stack| D[Stack Recommender]
-    A -->|Compares Tools| E[Compare System Drawer]
-    
-    B -->|Triggers Route| F[Main Dashboard Container]
-    C -->|Bypasses Theme| G[HTML classList Toggle]
-    
-    F -->|Reads| H[Ecosystem Tools Directory]
-    H -->|Pulls Data| I[toolsData.ts Static DB]
-    
-    F -->|Saves/Loads| J[Browser LocalStorage]
-    E -->|Saves/Loads| J
-```
-
 ---
 
 ## 🤖 Agents & Tools Used
@@ -77,19 +60,27 @@ Thank you so much for visiting my GitHub account and checking out this repositor
 
 ---
 
-## 💖 Thank You for Visiting HackForge!
+## 🏛️ System Architecture
 
-> *"To every builder and hacker pushing boundaries—thank you for dropping by!"* 🛠️
-
-Thank you for reviewing the HackForge AI Command Center! Building a unified workspace for rapid API testing, prompt staging, tool comparison, and time-boxed hackathon sprints was born out of real competitive coding passion. Your time and feedback mean so much.
-
-- 🌟 **Ready for your next hackathon?** Drop a star on this repo to bookmark these tools!
-- 📬 **Let's Build Together:** Always excited to brainstorm AI agent workflows and developer productivity tools. Connect with me on [GitHub](https://github.com/SriniwasAwasthi).
-
-*Keep building, keep innovating, and crush your next sprint!* ✨
+```mermaid
+graph TD
+    Hacker["👨‍💻 Hackathon Participant"] --> Dashboard["⚡ HackForge Dashboard"]
+    Dashboard --> Recommender["🧠 AI Tech Stack & Tool Recommender"]
+    Dashboard --> APITester["🛰️ Live REST/GraphQL API Playground"]
+    Dashboard --> PromptVault["🔐 AI Prompt Storage Vault"]
+    Dashboard --> Countdown["⏱️ Submission Countdown & Milestone Tracker"]
+```
 
 ---
 
+## 💖 Thank You for Visiting & Exploring Hack OS AI Ecosystem — The Ultimate Hackathon Developer Command Center!
+
+> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+
+* 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
+* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com).
+
+---
 <div align="center">
-  <sub>Forged for hackathon competitors and rapid builders by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+  <sub>Designed & Crafted with Passion by <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a> • Continuous Learner & Software Engineer</sub>
 </div>
