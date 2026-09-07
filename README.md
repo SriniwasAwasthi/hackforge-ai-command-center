@@ -32,6 +32,15 @@ Welcome to **Hack OS AI Ecosystem**, a next-generation developer dashboard desig
 
 ## 📊 System Architecture Flow Chart
 
+```mermaid
+graph TD
+    Hacker["👨‍💻 Hackathon Participant"] --> Dashboard["⚡ HackForge Dashboard"]
+    Dashboard --> Recommender["🧠 AI Tech Stack & Tool Recommender"]
+    Dashboard --> APITester["🛰️ Live REST/GraphQL API Playground"]
+    Dashboard --> PromptVault["🔐 AI Prompt Storage Vault"]
+    Dashboard --> Countdown["⏱️ Submission Countdown & Milestone Tracker"]
+```
+
 ---
 
 ## 🤖 Agents & Tools Used
@@ -51,37 +60,15 @@ Welcome to **Hack OS AI Ecosystem**, a next-generation developer dashboard desig
 
 ---
 
-## 💖 Conclusion
-Hack OS is built by developers, for developers, to take the friction out of building MVP prototypes. By bringing together the best AI development tools into a single, high-contrast, fully readable command center, it allows you to focus on what matters most: shipping high-quality code and winning hackathons.
-
-Thank you so much for visiting my GitHub account and checking out this repository! If this command center helped you, feel free to star the repository, fork it to build your own dashboard, or reach out. Happy hacking! 🚀
-
----
-
----
-
-## 🏛️ System Architecture
-
-```mermaid
-graph TD
-    Hacker["👨‍💻 Hackathon Participant"] --> Dashboard["⚡ HackForge Dashboard"]
-    Dashboard --> Recommender["🧠 AI Tech Stack & Tool Recommender"]
-    Dashboard --> APITester["🛰️ Live REST/GraphQL API Playground"]
-    Dashboard --> PromptVault["🔐 AI Prompt Storage Vault"]
-    Dashboard --> Countdown["⏱️ Submission Countdown & Milestone Tracker"]
-```
-
----
-
 ## 💖 Thank You for Visiting & Exploring Hack OS AI Ecosystem — The Ultimate Hackathon Developer Command Center!
 
-> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+> *\"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey.\"* 🚀
 
 * 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
-* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com)
+* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com)\
   * 🌐 **LinkedIn:** [https://www.linkedin.com/in/sriniwas-awasthi/](https://www.linkedin.com/in/sriniwas-awasthi/).
 
 ---
-<div align="center">
-  <sub>Designed & Crafted with Passion by <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a> • Continuous Learner & Software Engineer</sub>
+<div align="center">\
+  <sub>Designed & Crafted with Passion by <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a> • Continuous Learner & Software Engineer</sub>\
 </div>
